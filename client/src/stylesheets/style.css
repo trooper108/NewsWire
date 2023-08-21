@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100Vw;
+    height: 100vh;
+}
+/* div{
+    width: 33%;
+    height: 20rem;
+} */
+
+.img{
+    width: 900px;
+    height:500px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
